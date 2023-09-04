@@ -1,2 +1,2 @@
 # Bulls-and-Cows
-숫자야구
+AI Playing Bulls and Cows Game
